@@ -32,9 +32,9 @@ app.get('/user',(req,res)=>{
     
 });
 
-app.get('/',(req,res)=>{
-    <h1>Hello World</h1>
-})
+// app.get('/',(req,res)=>{
+//     <h1>Hello World</h1>
+// })
 
 
 
